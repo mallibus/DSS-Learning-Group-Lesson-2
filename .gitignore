@@ -4,6 +4,7 @@ data/
 
 # Pkl files
 *.pkl
+*.ipynb-bak
 
 
 # Byte-compiled / optimized / DLL files
